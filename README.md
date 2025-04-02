@@ -4,4 +4,5 @@
 
 
 2. 작성된 html을 github로 띄우기
+https://ks0721.github.io/2025_AI_web01/
 
